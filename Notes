@@ -1,0 +1,9 @@
+#User will be greeted and asked if they want the 10 day forecast for their area 
+#Response will be y/n
+#If response is y then they will be prompted to enter their zip code 
+#This will Generate a 10 day forecast that they can parse through
+
+#forecast will depend on entered zipcode
+#There will be a daytime and nighttime forecast for each day
+#zipcode should return instances of forecasts for the days 
+

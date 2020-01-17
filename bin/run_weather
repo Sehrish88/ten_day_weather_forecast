@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require_relative "../lib/ten_day_weather_forecast"
+CLI.new.start
+
+
