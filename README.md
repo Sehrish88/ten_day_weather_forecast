@@ -1,8 +1,6 @@
 # TenDayWeatherForecast
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ten_day_weather_forecast`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to the ten_day_weather_forecast ruby gem. With this gem you will be able to generate a maximum of 16 days forecast which will let you know the date,  city name, state, temperature, high temperature, low temperature, chance of snow, and probability of percipitation once you enter your city and state. 
 
 ## Installation
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ten_day_weather_forecast. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/ten_day_weather_forecast/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/[Sehrish88]/ten_day_weather_forecast. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/ten_day_weather_forecast/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## License
@@ -41,4 +39,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the TenDayWeatherForecast project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/ten_day_weather_forecast/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the TenDayWeatherForecast project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[Sehrishh88]/ten_day_weather_forecast/blob/master/CODE_OF_CONDUCT.md).

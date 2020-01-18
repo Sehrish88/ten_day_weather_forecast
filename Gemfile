@@ -4,3 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "rake", "~> 12.0"
+
+```ruby
+gem 'ten_day_weather_forecast'
+```
