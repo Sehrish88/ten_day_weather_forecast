@@ -21,7 +21,7 @@ class CLI
     
     def pick_number_for_forecast
         puts "Choose a number to pick a day for information on the day's forecast"
-        puts "type 'end' to exit program"
+        puts "type 'exit' to exit program"
         menu_input 
     end 
 
